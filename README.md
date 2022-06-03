@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Web developer  |  Tweets about HTML, CSS and JavaScript 📝 |  Web development tips and resources ⚒️ |  A reader 🧡
