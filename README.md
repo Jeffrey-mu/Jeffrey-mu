@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Web developer  |  Tweets about HTML, CSS and JavaScript 📝 |  Web development tips and resources ⚒️ |  A reader 🧡
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffrey-mu&show_icons=true&theme=radical/)](https://github.com/Jeffrey-mu/Jeffrey-mu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrey-mu&hide=html)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrey-mu&hide=html,javascript)]
 
 
-Web developer  |  Tweets about HTML, CSS and JavaScript 📝 |  Web development tips and resources ⚒️ |  A reader 🧡
+
