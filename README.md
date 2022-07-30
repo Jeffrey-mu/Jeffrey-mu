@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffrey-mu/)](https://github.com/anuraghazra/github-readme-stats)
 Web developer  |  Tweets about HTML, CSS and JavaScript 📝 |  Web development tips and resources ⚒️ |  A reader 🧡
